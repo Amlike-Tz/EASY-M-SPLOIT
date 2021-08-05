@@ -245,7 +245,7 @@ for i in range (100):
                 print("")
                 print("")
                 print(B+"PLEASE WAIT!!!........")
-                os.system("cd $HOME && cd lab && cd EASY-M-SPLOIT && bash wa.sh")
+                os.system("cd $HOME && rm -r EASY-M-SPLOIT && cd $HOME && https://github.com/Amlike-Tz/EASY-M-SPLOIT.git && cd EASY-M-SPLOIT && bash install.sh")
        elif com=="0":
                 os.system("clear")
                 print("")
