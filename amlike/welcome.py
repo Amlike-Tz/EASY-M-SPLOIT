@@ -73,6 +73,5 @@ for i in range (5):
               print(yellow+"TOOL INAENDA KU EXIT MAANA UMECHAGUA KU EXIT OR UMEENDIKA CHAGUO LISILO SASAHIH SO BYEEEE!!!!👍👋")
               time.sleep(2)
               print("")
-              sys.exit(0)
+              sys.exit(1)
 
-print(5)
