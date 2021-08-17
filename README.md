@@ -10,7 +10,7 @@ Use The following steps to install EASY-M-SPLOIT in Your Termux.
 pkg update && pkg upgrade
 ```
 
-```bash
+```bash.
 git clone https://GitHub.com/Amlike-Tz/EASY-M-SPLOIT.git
 ```
 
